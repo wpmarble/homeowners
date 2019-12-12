@@ -19,7 +19,7 @@ git clone https://github.com/wpmarble/homeowners.git
 * `generate_quotas.do`: a Stata file that generates the survey quotas using the November 2014 CPS supplement. 
 
 # Data files
-All data files needed to reproduce the results are included. The cleaned survey data is in the `R` data file `cleaned_top20.RData`. Running `01_clean_checkquotas.R` will re-create this file using the Qualtrics export `National_Top_20_MSA_Sample_v_22_final_sample.csv`. 
+All data files needed to reproduce the results are included. The cleaned survey data is in the data file `cleaned_top20.RData`. Running `01_clean_checkquotas.R` will re-create this file using the Qualtrics export `National_Top_20_MSA_Sample_v_22_final_sample.csv`. 
 
 # Software version information
 All analysis were last run on a MacBook Pro running macOS 10.15.1 (Catalina) using R version 3.6.1. A list of all R packages called via `require()` or `library()` in the replication archive is below:
