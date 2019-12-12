@@ -7,7 +7,7 @@ This do-file generates survey sampling quotas from the November 2014 CPS.
 */
 
 clear all
-
+version 15.1
 
 infix year 18-21 state 93-94 county 101-103 faminc 39-40 region 89-90 cbsa 96-100 metstatus 105-105 /*
 */ age 122-123 sex 129-130 race 139-140 hisp 157-158 vote2014 951-952 reg2014 953-954 /*
