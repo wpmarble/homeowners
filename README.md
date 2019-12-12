@@ -1,6 +1,6 @@
 # Replication archive
 
-Replication archive for "Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development" by William Marble and Clayton Nall, _Journal of Politics_. Before running code, make sure to set your working directory to the folder that this README is contained in.  The code will automatically create folders named `figs` and `tables` if they do not already exist.
+Replication archive for "Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development" by William Marble and Clayton Nall, forthcoming in _The Journal of Politics_. Before running code, make sure to set your working directory to the folder that this README is contained in.  The code will automatically create folders named `figs` and `tables` if they do not already exist.
 
 To download this archive using Git, run the following command in Terminal:
 ```
