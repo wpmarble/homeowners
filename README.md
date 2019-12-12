@@ -1,7 +1,11 @@
 # Replication archive
 
-Replication archive for "Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development" by William Marble and Clayton Nall, _Journal of Politics_. Before running code, make sure to set your working directory to the folder that this README is contained in.  The code will automatically create folders named figs and tables if they do not already exist.
+Replication archive for "Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development" by William Marble and Clayton Nall, _Journal of Politics_. Before running code, make sure to set your working directory to the folder that this README is contained in.  The code will automatically create folders named `figs` and `tables` if they do not already exist.
 
+To download this archive using Git, run the following command in Terminal:
+```
+git clone https://github.com/wpmarble/homeowners.git
+```
 
 # Code directory
 * `00_batch.R`: a batch file that will conduct all the analyses.
@@ -15,7 +19,7 @@ Replication archive for "Where Self-Interest Trumps Ideology: Liberal Homeowners
 * `generate_quotas.do`: a Stata file that generates the survey quotas using the November 2014 CPS supplement. 
 
 # Data files
-All data files needed to reproduce the results are included. The cleaned survey data is in the R data file `cleaned_top20.RData`. Running `01_clean_checkquotas.R` will re-create this file using the Qualtrics export `National_Top_20_MSA_Sample_v_22_final_sample.csv`. 
+All data files needed to reproduce the results are included. The cleaned survey data is in the `R` data file `cleaned_top20.RData`. Running `01_clean_checkquotas.R` will re-create this file using the Qualtrics export `National_Top_20_MSA_Sample_v_22_final_sample.csv`. 
 
 # Software version information
 All analysis were last run on a MacBook Pro running macOS 10.15.1 (Catalina) using R version 3.6.1. A list of all R packages called via `require()` or `library()` in the replication archive is below:
