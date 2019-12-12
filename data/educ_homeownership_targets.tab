@@ -1,0 +1,25 @@
+region	var	level	pct
+west	educ	less than hs	13.98
+west	educ	hs diploma	23.19
+west	educ	some college/assoc. degree	28.62
+west	educ	bachelors degree	22.21
+west	educ	graduate degree	12.00
+west	homeownership	homeowner	57.55
+south	educ	less than hs	11.5
+south	educ	hs diploma	24.1
+south	educ	some college/assoc. degree	25.2
+south	educ	bachelors degree	23.4
+south	educ	graduate degree	15.6
+south	homeownership	homeowner	61.85
+midwest	educ	less than hs	9.51
+midwest	educ	hs diploma	26.32
+midwest	educ	some college/assoc. degree	29.23
+midwest	educ	bachelors degree	22.47
+midwest	educ	graduate degree	12.48
+midwest	homeownership	homeowner	72.06
+northeast	educ	less than hs	9.90
+northeast	educ	hs diploma	27.45
+northeast	educ	some college/assoc. degree	23.58
+northeast	educ	bachelors degree	24.71
+northeast	educ	graduate degree	14.37
+northeast	homeownership	homeowner	62.27

@@ -1,0 +1,94 @@
+"region","category","n","prop"
+"Midwest","age: 18-24 years",84,0.119828815977175
+"Midwest","age: 25-44 years",245,0.349500713266762
+"Midwest","age: 45-64 years",244,0.348074179743224
+"Midwest","age: 65+ years",128,0.182596291012839
+"Midwest","income: $15,000 - $24,999",60,0.0855920114122682
+"Midwest","income: $25,000 - $34,999",81,0.115549215406562
+"Midwest","income: $35,000 - $49,999",94,0.134094151212553
+"Midwest","income: $50,000 – 74,999",130,0.185449358059914
+"Midwest","income: $75,000+",267,0.380884450784593
+"Midwest","income: Less than $15,000",69,0.0984308131241084
+"Midwest","msa: Chicago",350,0.499286733238231
+"Midwest","msa: Detroit",144,0.205420827389444
+"Midwest","msa: Minneapolis",127,0.181169757489301
+"Midwest","msa: StLouis",80,0.114122681883024
+"Midwest","race: Asian",41,0.0584878744650499
+"Midwest","race: Black",113,0.161198288159772
+"Midwest","race: Hispanic",69,0.0984308131241084
+"Midwest","race: other",12,0.0171184022824536
+"Midwest","race: White",466,0.664764621968616
+"Midwest","sex: Female",363,0.517831669044223
+"Midwest","sex: male",334,0.476462196861626
+"Midwest","sex: NA",4,0.00570613409415121
+"Northeast","age: 18-24 years",116,0.119834710743802
+"Northeast","age: 25-44 years",339,0.350206611570248
+"Northeast","age: 45-64 years",337,0.348140495867769
+"Northeast","age: 65+ years",176,0.181818181818182
+"Northeast","income: $15,000 - $24,999",60,0.0619834710743802
+"Northeast","income: $25,000 - $34,999",83,0.0857438016528926
+"Northeast","income: $35,000 - $49,999",124,0.128099173553719
+"Northeast","income: $50,000 – 74,999",161,0.166322314049587
+"Northeast","income: $75,000+",468,0.483471074380165
+"Northeast","income: Less than $15,000",72,0.0743801652892562
+"Northeast","msa: Boston",138,0.142561983471074
+"Northeast","msa: NYNJ",579,0.598140495867769
+"Northeast","msa: Philadelphia",251,0.259297520661157
+"Northeast","race: Asian",86,0.0888429752066116
+"Northeast","race: Black",145,0.149793388429752
+"Northeast","race: Hispanic",147,0.151859504132231
+"Northeast","race: other",19,0.0196280991735537
+"Northeast","race: White",571,0.589876033057851
+"Northeast","sex: Female",494,0.510330578512397
+"Northeast","sex: male",468,0.483471074380165
+"Northeast","sex: NA",6,0.00619834710743802
+"South","age: 18-24 years",143,0.117502054231717
+"South","age: 25-44 years",481,0.395234182415777
+"South","age: 45-64 years",395,0.324568611339359
+"South","age: 65+ years",198,0.162695152013147
+"South","income: $15,000 - $24,999",118,0.0969597370583402
+"South","income: $25,000 - $34,999",121,0.0994248151191454
+"South","income: $35,000 - $49,999",151,0.124075595727198
+"South","income: $50,000 – 74,999",208,0.170912078882498
+"South","income: $75,000+",506,0.415776499589154
+"South","income: Less than $15,000",113,0.0928512736236647
+"South","msa: Atlanta",186,0.152834839769926
+"South","msa: DFW",238,0.195562859490551
+"South","msa: Houston",211,0.173377156943303
+"South","msa: Miami",209,0.171733771569433
+"South","msa: Tampa",120,0.0986031224322104
+"South","msa: Washington",253,0.207888249794577
+"South","race: Asian",73,0.0599835661462613
+"South","race: Black",286,0.235004108463435
+"South","race: Hispanic",251,0.206244864420707
+"South","race: other",30,0.0246507806080526
+"South","race: White",577,0.474116680361545
+"South","sex: Female",633,0.52013147082991
+"South","sex: male",583,0.479046836483155
+"South","sex: NA",1,0.000821692686935086
+"West","age: 18-24 years",154,0.126853377265239
+"West","age: 25-44 years",456,0.375617792421746
+"West","age: 45-64 years",402,0.331136738056013
+"West","age: 65+ years",202,0.166392092257002
+"West","income: $15,000 - $24,999",114,0.0939044481054366
+"West","income: $25,000 - $34,999",141,0.116144975288303
+"West","income: $35,000 - $49,999",161,0.132619439868204
+"West","income: $50,000 – 74,999",206,0.169686985172982
+"West","income: $75,000+",486,0.400329489291598
+"West","income: Less than $15,000",106,0.0873146622734761
+"West","msa: Atlanta",2,0.00164744645799012
+"West","msa: Denver",91,0.0749588138385502
+"West","msa: LA",463,0.381383855024712
+"West","msa: Phoenix",157,0.129324546952224
+"West","msa: Riverside",145,0.119439868204283
+"West","msa: SanDiego",103,0.0848434925864909
+"West","msa: SanFran",144,0.118616144975288
+"West","msa: Seattle",109,0.0897858319604613
+"West","race: Asian",161,0.132619439868204
+"West","race: Black",76,0.0626029654036244
+"West","race: Hispanic",359,0.295716639209226
+"West","race: other",58,0.0477759472817133
+"West","race: White",560,0.461285008237232
+"West","sex: Female",625,0.514827018121911
+"West","sex: male",583,0.480230642504119
+"West","sex: NA",6,0.00494233937397035
