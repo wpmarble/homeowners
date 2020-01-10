@@ -7,7 +7,7 @@ To download this archive, run the following command in Terminal:
 git clone https://github.com/wpmarble/homeowners.git
 ```
 
-You can also find the data and code on the _JOP_ Dataverse: [insert link]
+You can also find the data and code on the _JOP_ Dataverse: https://dataverse.harvard.edu/dataverse/jop
 
 
 # Code directory
