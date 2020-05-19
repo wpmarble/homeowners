@@ -12,7 +12,7 @@ You can also find the data and code on the _JOP_ Dataverse: https://dataverse.ha
 
 # Code directory
 * `00_batch.R` a batch file that will conduct all the analyses.
-* `01_clean_checkquotas.R` cleans the csv exported from Qualtrics and shows the proportion of respondents in each quota target
+* `01_clean_checkquotas.R` cleans the csv exported from Qualtrics and shows the proportion of respondents in each quota target. Need to download the raw Qualtrics file from Dataverse to run this script (the file is too large to host on Github)
 * `02_experiment_analysis.R` conducts the analysis of experiments 1 and 2 in the main text, including balance tables. Generates Tables 1, 2, 4, 5, 6, 7, A-3, A-4, A-6, A-7, A-8, and A-9. Generates Figures 1, 2, A-3, A-4, A-5, and A-6. 
 * `03_policy_change.R` conducts the observational analysis in the first results section of the paper. Generates Tables 3, A-1, A-2, and A-5. Generates several figures but none that appear in the manuscript of appendix.
 * `04_educ_homeowner_quota.R` compares the sample distribution of education and homeownership to CPS targets. Generates Figures A-1 and A-2. 
