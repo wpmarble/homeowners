@@ -7,7 +7,7 @@ To download this archive, run the following command in Terminal:
 git clone https://github.com/wpmarble/homeowners.git
 ```
 
-You can also find the data and code on the _JOP_ Dataverse: https://dataverse.harvard.edu/dataverse/jop
+You can also find the data and code on the _JOP_ Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NIMLAR
 
 
 # Code directory
@@ -24,7 +24,7 @@ You can also find the data and code on the _JOP_ Dataverse: https://dataverse.ha
 # Data files
 All data files needed to reproduce the results are included. The cleaned survey data is in the data file `cleaned_top20.RData`, which is called by the subsequent scripts. 
 
-If you want to run `01_clean_checkquotas.R`, you need to separately download the raw csv Qualtrics export from the Dataverse. (The file is too large to be hosted on Github.) Download the file called `National_Top_20_MSA_Sample_v_22_final_sample.csv` from [INSERT LINK] and place it in the `data` folder. 
+If you want to run `01_clean_checkquotas.R`, you need to separately download the raw csv Qualtrics export from the Dataverse. (The file is too large to be hosted on Github.) Download the file called `National_Top_20_MSA_Sample_v_22_final_sample.csv` from [Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NIMLAR) and place it in the `data` folder. 
 
 # Software version information
 All analysis were last run on a MacBook Pro running macOS 10.15.1 (Catalina) using R version 3.6.1. A list of all R packages called via `require()` or `library()` in the replication archive is below:
