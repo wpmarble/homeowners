@@ -1,6 +1,6 @@
 # Replication archive
 
-Replication archive for "Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development" by William Marble and Clayton Nall, forthcoming in _The Journal of Politics_. 
+Replication archive for "[Where Self-Interest Trumps Ideology: Liberal Homeowners and Local Opposition to Housing Development](https://www.doi.org/10.1086/711717)" by William Marble and Clayton Nall in _The Journal of Politics_.
 
 To download this archive, run the following command in Terminal:
 ```
